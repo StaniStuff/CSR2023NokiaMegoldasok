@@ -12,3 +12,4 @@ A pizzarendelo.py tartalmazza. Szükséges mellé még a favicon.ico fájl is.
 Továbbá a program futtatásához szükséges a tkinter (letölteni a pip install tk paranccsal lehet!)
 
 A feladatokat megoldotta: Csontos Roland
+Utolsó módosítás dátuma: 2023.05.29
